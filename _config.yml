@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: sevenFlow
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
+author: sevenFlow
+language: zh
 timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: http://example.com
-root: /sevenFlow
+url: https://yu648813710.github.io/
+root: /sevenFlow.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
