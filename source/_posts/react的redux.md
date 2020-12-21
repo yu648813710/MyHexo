@@ -1,5 +1,9 @@
-# react的状态管理
-
+---
+title: react的状态管理
+date: 2020/11/25 23:10
+tags: react
+categories: 前端
+---
 
 
 ## 什么是状态管理

@@ -1,4 +1,9 @@
-# 从0搭建一个react工程项目
+---
+title: 从0搭建一个react工程项目
+date: 2020/11/25 23:10
+tags: react
+categories: 前端
+---
 
 ### 从零搭建项目都需要搭建什么
 

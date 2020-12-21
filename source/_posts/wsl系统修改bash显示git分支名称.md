@@ -1,4 +1,9 @@
-# wsl 系统修改 bash 显示 git 分支名称
+---
+title: wsl 系统修改 bash 显示 git 分支名称
+date: 2020/11/25 23:10
+tags: 其他
+categories: 系统
+---
 
 ## 问题描述
 

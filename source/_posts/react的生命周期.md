@@ -1,4 +1,9 @@
-# react的生命周期
+---
+title: react的生命周期
+date: 2020/11/25 23:10
+tags: react
+categories: 前端
+---
 
 > 其实react生命周期细分的化分为，V16.3之前 到 V16.3 然后到V16.4，主要原因是react-domV16.3之前的版本渲染是同步的，然后渲染的时候 会导致 CPU堵塞，所以为了解决这个问题，react提出了 [fiber](https://zhuanlan.zhihu.com/p/26027085) 解决方案，成为了异步处理渲染，这样导致渲染前的生命周期会重复调用，所以生命周期废弃了一部分API,出了新的API
 

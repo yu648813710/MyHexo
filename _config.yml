@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: sevenFlow
+title: TT
 subtitle: ''
 description: ''
 keywords:
-author: sevenFlow
-language: zh
+author: 76
+language: zh-CN
 timezone: ''
 
 # URL
@@ -98,8 +98,8 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-# theme: landscape
-theme: cactus-white
+theme: hexo-theme-brewski
+# theme: hexo-theme-brewski-demo
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

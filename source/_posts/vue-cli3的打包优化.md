@@ -1,4 +1,9 @@
-# vue-cli3 的 打包优化
+---
+title: react的状态管理
+date: 2020/11/25 23:10
+tags: vue
+categories: 前端
+---
 
 ## 先看打包情况
 
