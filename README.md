@@ -43,8 +43,8 @@ deploy:
 _config.yml文件
 
 ```  yml
-url: https://yu648813710.github.io/
-root: /sevenFlow.github.io/
+url: https://gitee.com/seven_l/
+root: /sevenflow.blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:

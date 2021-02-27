@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://yu648813710.github.io/
-root: /sevenFlow.github.io/
+url: https://gitee.com/seven_l/
+root: /sevenflow.blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -98,12 +98,12 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-brewski
+theme: fluid  # 指定主题
 # theme: hexo-theme-brewski-demo
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:yu648813710/sevenFlow.github.io.git
+  repository: git@gitee.com:seven_l/sevenflow.blog.git
   branch: master
