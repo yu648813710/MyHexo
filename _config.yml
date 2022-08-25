@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://gitee.com/seven_l/
+url: https://github.com/yu648813710/
 root: /sevenflow.blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -105,5 +105,5 @@ theme: fluid  # 指定主题
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@gitee.com:seven_l/sevenflow.blog.git
+  repository: git@github.com:yu648813710/sevenflow.blog.git
   branch: master
